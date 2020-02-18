@@ -7,7 +7,7 @@
 </head>
 <body>
   <div id="root">
-  <h1> This is my new world</h1>
+  <h1> This is Marks new world</h1>
   <p><img png="undraw_mello_otq1.png"></p>
   </div>
   <script src="main.js" type="..."></script>
